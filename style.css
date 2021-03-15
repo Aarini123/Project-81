@@ -1,0 +1,16 @@
+h1
+{
+	color: rgb(0, 0, 0); 
+	font-size: 40px;
+}
+.body_backgrouund {background-image: url("3000.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#Blank_canvas{border-width: 5px;
+	background-color: rgb(255, 255, 255);
+	border-style: dotted;
+	border-color: rgb(0, 0, 0);
+
+}
